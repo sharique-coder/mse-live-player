@@ -36,7 +36,7 @@
   "homepage": "https://github.com/kevinGodell/mse-live-player#readme",
   "dependencies": {},
   "devDependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "ffmpeg-respawn": "^0.1.1",
     "ffmpeg-static": "^2.4.0",
     "mp4frag": "^0.1.1",
